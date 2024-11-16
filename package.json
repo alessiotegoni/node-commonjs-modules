@@ -1,0 +1,12 @@
+{
+  "name": "commonjs-modules",
+  "version": "1.0.0",
+  "main": "people.js",
+  "scripts": {
+    "dev": "node ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

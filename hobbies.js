@@ -1,0 +1,1 @@
+module.exports = (...hobbies) => ({ hobbies });
